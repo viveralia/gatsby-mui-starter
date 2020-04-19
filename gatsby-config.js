@@ -20,5 +20,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-eslint`,
+    `gatsby-plugin-material-ui`,
   ],
 }
